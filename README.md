@@ -1,2 +1,2 @@
 # Simple_Calculator_Gui
-google colab
+google colab jupyter notebook Python
